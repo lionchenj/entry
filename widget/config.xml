@@ -4,13 +4,13 @@
 
     <description>
 
-        Example For APICloud.
+        jubao app
 
     </description>
 
-    <author email="developer@apicloud.com" href="http://www.apicloud.com">
+    <author email="jubao@jubao.com" href="http://www.jubao123456.com">
 
-        Developer
+        jubao
 
     </author>
 
@@ -23,6 +23,8 @@
 	<preference name="appBackground" value="rgba(0,0,0,0.0)"/>
 
 	<preference name="windowBackground" value="rgba(0,0,0,0.0)"/>
+
+	<preference name="appCertificateVerify" value="false" />
 
 	<preference name="frameBackgroundColor" value="rgba(0,0,0,0.0)"/>
 
